@@ -49,3 +49,12 @@ h1,h2,h3,h4,h5,h6,p,span,div {
   margin-right: 20px;
   width: 50px;
 }
+
+#searchbar-content {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+#search {
+  width: 100%;
+}
