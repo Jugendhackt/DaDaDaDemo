@@ -29,7 +29,7 @@ DaDaDaDemo was a part of the hackathon 'Jugendhackt Berlin 2016'
 ## Creators
 * [Jannis](https://github.com/sinnaj-r): Backend
 * [Joris](https://github.com/JorisJH): Backend
-* [Hanna](https://github.com/elliotpow12): Frontend & UI/UX
+* [Hannah](https://github.com/elliotpow12): Frontend & UI/UX
 * [Anna](https://github.com/maedchenkunst2013): Frontend
 * [Klara](https://github.com/grumpycatiscool): Frontend
 * [Lukas](https://github.com/luki): UI/UX & Frontend
