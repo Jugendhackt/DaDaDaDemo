@@ -13,6 +13,7 @@ DaDaDaDemo was a part of the hackathon 'Jugendhackt Berlin 2016'
 
 1. ```https://github.com/Jugendhackt/DaDaDaDemo.git``` 
 2. Head to folder: ```cd [FOLDER]```
+3. ```meteor npm install```
 3. ```meteor run```
 
 ## Presentation (German!)
